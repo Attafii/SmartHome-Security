@@ -1,4 +1,4 @@
-# Home Surveillance IoT System
+# 🏠 Home Surveillance IoT System
 
 ## Description
 This project involves developing an Internet of Things (IoT) application using the STM32F407VG microcontroller to remotely monitor your home. The system components include various sensors and actuators.
@@ -26,16 +26,10 @@ This project involves developing an Internet of Things (IoT) application using t
      - The red LED turns on.
      - The buzzer activates for 5 minutes.
 
-## Tasks
-### Session 5:
-- Choose pins for connecting inputs and outputs.
-- Create a complete circuit diagram using simulation software.
-- Design the system flowchart.
-- Write C code to simulate startup behavior.
-
-### Session 6:
-- Define an Analog-to-Digital Converter (ADC).
-- Identify the STM32F407VG pin(s) for ADC.
-- Write C code for scenarios related to the gas sensor.
+4. **Additional Features**:
+   - **Analog-to-Digital Converter (ADC)**:
+     - Define and use an ADC to read analog sensor values.
+   - **UART Communication**:
+     - Implement UART communication for data exchange with external devices.
 
 Feel free to customize this README with additional details specific to your project. Good luck! 🚀
